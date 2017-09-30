@@ -1,7 +1,6 @@
 <html>
 <body>
 <h1 align="center">HASH_BRUTEFORCE V1.0</h1>
-<p align="center"> <b> <brة </b></p>
 <table border="0" cellpadding="2" cellspacing="2" width="100%">
   <tr>
     <td align="center"><b>
