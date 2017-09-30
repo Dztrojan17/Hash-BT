@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1 align="center">ACS-auto-command-SQLMAP V1.0</h1>
+<h1 align="center">HASH_BRUTEFORCE V1.0</h1>
 <p align="center"> <b> <brة </b></p>
 <table border="0" cellpadding="2" cellspacing="2" width="100%">
   <tr>
@@ -14,7 +14,7 @@
     <td width="780px" class="main2"><b>Hash_BT V1.0</b></td>
  
   <tr>
-    <td width="100px" class="main2"><b>AUTHOR:</b></td><td width="780px">Dz_Trojan[Yacine_Moha]</td>
+    <td width="100px" class="main2"><b>AUTHOR:</b></td><td width="780px">Dz_Trojan[Yacine_Mohamed]</td>
   </tr>
   <tr>
     <td width="100px" class="main2"><b>Fb_Page :</b></td><td width="780px">https://www.facebook.com/kali.linux.pentesting.tutorials/</td>
@@ -34,11 +34,6 @@
     <td class="main" width="890px"><p>&#x25cf; Hash_BruteForce_[MD5,SHA1,SHA256,SHA384,SHA512]_With_Use_Wordlist
 <br />
     </table>
-
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
-    <td class="main3" width="890px">&#9733; <b>Download:</b></td>
-  </tr>
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
     <td class="main3">&#9733; <b>Screenshots:</b></td>
